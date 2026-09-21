@@ -1,6 +1,6 @@
 # Vicente Vila
 
-**Ingeniero de Agentes IA** — GraphRAG · Multi-Agent Systems · Meta-Harness Optimization.
+**Aprendiz en Ingenieria de Agentes IA** — GraphRAG · Multi-Agent Systems · Meta-Harness Optimization.
 
 Desarrollo sistemas que no solo responden, sino que **razonan y evolucionan**: reduzco la fricción entre el LLM y la infraestructura de producción con grafos de conocimiento, arneses auto-mejorables y CI/CD para prompts.
 
